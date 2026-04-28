@@ -72,10 +72,13 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    font-size: 23px;
+    gap: 25px;
 }
 
 .state_bar_bookmark{
     margin-right: 10px;
+    font-size: 23px;
 }
 
 .content_bar{
